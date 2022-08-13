@@ -184,6 +184,6 @@ Navigate to project homepage [http://127.0.0.1:5000/](http://127.0.0.1:5000/) or
 
 ## Author
 
-This project was carried out by Ismaila Lawal Elijah as part of the project in the ALX-UDACITY Fullstack Web Development Course, and as part of the reqquirement to be awarded a certificate of completion in Fullstack Web Development.
+This project was carried out by Ismaila Lawal Elijah as part of the projects in the ALX-UDACITY Fullstack Web Development Course, and as part of the requirement to be awarded a certificate of completion in Fullstack Web Development.
 
 Ismaila Lawal Elijah [ElijahLawal-7](https://github.com/ElijahLawal-7)
