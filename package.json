@@ -14,15 +14,15 @@
     "Nano-degree"
   ],
   "author": "Ismaila Lawal Elijah",  
-  "license": "ISC",
+  "license": "Udacity",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Aro1914/Fyyur-Project.git"
+    "url": "https://github.com/ElijahLawal-7/Fyyur_Web_App_Project.git"
   },
   "bugs": {
-    "url": "https://github.com/Aro1914/Fyyur-Project/issues"
+    "url": "https://github.com/ElijahLawal-7/Fyyur_Web_App_Project.git/issues"
   },
-  "homepage": "https://github.com/Aro1914/Fyyur-Project#readme",
+  "homepage": "https://github.com/ElijahLawal-7/Fyyur_Web_App_Project/blob/main/README.md",
   "dependencies": {
     "bootstrap": "^3.4.1"
   }
