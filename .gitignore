@@ -1,0 +1,5 @@
+.mypy_cache/
+migrations/
+node_modules/
+venv/
+.env
